@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Racket
+compiled/
+*.rkt~
+
+# Generated at runtime by the game
+leaderboard.txt
